@@ -30,5 +30,5 @@
 - Developer at [New World Now](https://www.newworldnow.com/)
 - Loves a freshly brewed cup of coffee
 
-![Metrics](https://raw.githubusercontent.com/invntiv/invntiv/blob/main/github-metrics.svg)
+![Metrics](https://github.com/invntiv/invntiv/blob/main/github-metrics.svg)
 
