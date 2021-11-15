@@ -3,7 +3,7 @@
 <div align="left">
   <a href="https://twitter.com/">
     <img
-      src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      src="https://img.shields.io/twitter/follow/_indras_net_?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
       alt="Twitter"
     />
   </a>
@@ -25,7 +25,7 @@
 
 <br />
 
-## I am Josh Mack
+## I am Joshua Mack
 
 - Developer at [New World Now](https://www.newworldnow.com/)
 - Milwaukee, WI 
