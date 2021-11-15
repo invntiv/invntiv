@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello there 👽
 
 <div align="left">
   <a href="https://twitter.com/">
@@ -28,7 +28,10 @@
 ## I am Josh Mack
 
 - Developer at [New World Now](https://www.newworldnow.com/)
-- Loves a freshly brewed cup of coffee
+- Milwaukee, WI 
+- Constantly tickling my brain with new hobbies and obsessions
+- Love to sit down with a good book
+
 
 ![Metrics](https://github.com/invntiv/invntiv/blob/main/github-metrics.svg)
 
