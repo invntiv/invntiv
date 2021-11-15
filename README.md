@@ -18,7 +18,7 @@
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/invntiv/invntiv/devcard.svg"
+      src="https://github.com/invntiv/invntiv/blob/main/devcard.svg"
     />
   </a>
 </div>
