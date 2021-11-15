@@ -14,11 +14,11 @@
     />
   </a>
 
-  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
+  <a href="https://api.daily.dev/get?r=invntiv" target="_blank">
     <img
       width="256"
       align="right"
-      src="https://raw.githubusercontent.com/invntiv/invntiv/devcard/devcard.svg"
+      src="https://raw.githubusercontent.com/invntiv/invntiv/devcard.svg"
     />
   </a>
 </div>
