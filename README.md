@@ -27,18 +27,18 @@
 
 ## I am Joshua Mack
 
-### - Maintenance Developer at [New World Now](https://www.newworldnow.com/)
-### - Lives in: Milwaukee, WI
-### - With: An amazing girlfriend, 1 maniacal dog & 3 black cats
-### - Loves: To sit down with a good book: usually Sci-Fi, Fantasy, History, Thrillers, or Non-Fic!
+- Maintenance Developer at [New World Now](https://www.newworldnow.com/)
+- Lives in: Milwaukee, WI
+- With: An amazing girlfriend, 1 maniacal dog & 3 black cats
+- Loves: To sit down with a good book: usually Sci-Fi, Fantasy, History, Thrillers, or Non-Fic!
 
-### - Interests: 
-  ### - ₿ Crypto & NFTs
-  ### - 🐉 D&D, 
-  ### - 🖨️ 3D Printing, 
-  ### - 🎨 Art
-  ### - 🥃 Bourbon, 
-  ### - 🎵 Music Festivals.
+- Interests: 
+  - ₿ Crypto & NFTs
+  - 🐉 D&D, 
+  - 🖨️ 3D Printing, 
+  - 🎨 Art
+  - 🥃 Bourbon, 
+  - 🎵 Music Festivals.
 
 
 ![Metrics](https://github.com/invntiv/invntiv/blob/main/github-metrics.svg)
