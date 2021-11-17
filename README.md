@@ -25,13 +25,13 @@
 
 <br />
 
-## I am Joshua Mack
+## [I am Joshua Mack](invntivdevelopment.com)
 
 - 🖥️ Maintenance Developer at [New World Now](https://www.newworldnow.com/). We make software that improves the quality of early childcare all over the US! 🖍️
 - Lives in: 🏠 Milwaukee, WI
 - With: An amazing girlfriend 👩, 1 maniacal dog 🐕 & 3 black cats 🐈
 - ❤️ Loves: To sit down with 📚 a pile of good books: usually Sci-Fi, Fantasy, History, Thrillers, or Non-Fic!
-- ₿ Crypto & NFTs | 🐉 D&D | 🖨️ 3D Printing | 🎨 Art | 🥃 Bourbon | 🎵 Music Festivals.
+- ₿ Crypto & NFTs | 🐉 D&D | 🖨️ 3D Printing | 🎨 Art | 🥃 Bourbon | 🎵 Music Festivals
 
 
 ![Metrics](https://github.com/invntiv/invntiv/blob/main/github-metrics.svg)
