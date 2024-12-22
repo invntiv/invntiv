@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ 99% of my work is in the private sector. Some stuff goes here.
+⚡ 99% of my work is in the private sector. Some stuff goes here.<br>
 🔭 I’m currently a full-stack developer in the insurance industry by day and am focusing on the intersection of Web3 and AI by night.<br>
 🌱 I’m currently learning Rust<br>
 💬 Ask me about Web3, JS/TS, C#, JS frameworks<br>
