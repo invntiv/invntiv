@@ -1,6 +1,6 @@
 # Hello there 👽
 # 💫 About Me:
-🔭 I’m currently a full-stack developer focusing on the AI sector.<br>🌱 I’m currently learning Rust<br>💬 Ask me about Typescript, Javascript, Network configurations, and reverse proxies.<br>⚡ Fun fact my pinkie got partially amputated
+🔭 I’m currently a full-stack developer in the insurance industry by day and am focusing on the intersection of Web3 and AI by night.<br>🌱 I’m currently learning Rust<br>💬 Ask me about Web3, JS/TS, C#<br>⚡ Fun fact my pinkie got partially amputated
 
 
 ## 🌐 Socials:
