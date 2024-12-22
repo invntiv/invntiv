@@ -1,6 +1,8 @@
 # 💫 About Me:
-⚡ Most of my work is in the private sector. Fun stuff goes here.
-🔭 I’m currently a full-stack developer in the insurance industry by day and am focusing on the intersection of Web3 and AI by night.<br>🌱 I’m currently learning Rust<br>💬 Ask me about Web3, JS/TS, C#<br>
+⚡ 99% of my work is in the private sector. Some stuff goes here.
+🔭 I’m currently a full-stack developer in the insurance industry by day and am focusing on the intersection of Web3 and AI by night.<br>
+🌱 I’m currently learning Rust<br>
+💬 Ask me about Web3, JS/TS, C#, JS frameworks<br>
 
 ## 🌐 Socials:
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/HYPERSTITIONsol.svg?style=social&label=Follow%20%40HYPERSTITIONsol)](https://twitter.com/HYPERSTITIONsol)
