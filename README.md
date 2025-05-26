@@ -2,6 +2,8 @@
 ⚡ +85% of my work is done in the private sector. Some stuff goes here, some is lost to the aether forever...<br>
 🔭 I work as a full-stack developer in the insurance industry by day and by night I focus on Web3, Game Dev, and AI.<br>
 
+Chief maintainer of [SpacetimeDB C# Support VSCode Extension](https://marketplace.visualstudio.com/items?itemName=SpacetimeDBUnofficial.spacetimedb-csharp&ssr=false) (Repo [here](https://github.com/invntiv/stdb-vscode-csharp))
+
 ## 🌐 Socials:
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/_invntiv_.svg?style=social&label=Follow%20%40_invntiv_)](https://twitter.com/_invntiv_)
 
